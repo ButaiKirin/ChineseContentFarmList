@@ -1,3 +1,5 @@
+! Title: Chinese Content Farm List (Subscription)
+! Homepage: https://github.com/ButaiKirin/ChineseContentFarmList
 *://f1.avseetvs.pp.ua/*
 *://www.vostosun.cn/*
 *://www.9966dy.com/*
