@@ -38,3 +38,34 @@ title/^.*。Com址/
 title/^.*本地约见/
 title/^.*You searched for - FIFA/
 title/^.*Search Results - Planned Parenthood/
+title/^.*平台(反|返)水/
+title/^.*(反|返)水钱/
+title/^.*赚(反|返)谁/
+title/^.*刷(反|返)税/
+title/^.*彩票(反|返)水/
+title/^.*net✔️/
+title/^.*一律(反|返)水/
+title/^.*高(反|返)水/
+title/^.*提(反|返)水/
+title/^.*做访问/
+title/^.*Search Results - Hermann Park Conservancy/
+title/^.*Search | NatureScot/
+title/^.*Search - Heywood Hospital/
+title/^.*(反|返)水计划/
+title/^.*真人(反|返)水/
+title/^.*娱乐城(反|返)水/
+title/^.*网上百家乐/
+title/^.*線上娛樂城/
+title/^.*线上娱乐城/
+title/^.*推荐➡️/
+title/^.*㊙️️-/
+title/^.*游戏(反|返)水/
+title/^.*(反|返)水多少/
+title/^.*洗码(反|返)水/
+title/^.*可提款/
+title/^.*速提款/
+title/^.*(反|返)水平台/
+title/.*【对接/
+title/.*资讯站/
+title/.*( 查询微信/
+title/.*(查询微信/
