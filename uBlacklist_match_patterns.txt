@@ -19,6 +19,7 @@ title/.*【 官网/
 title/.*【手动输入/
 title/.*【输入 dk/
 title/.*【输入⏩dk/
+title/.*me✔️)/
 title/.*com 】/
 title/.*DK2000/
 title/.*网址导航 - 亿推/
