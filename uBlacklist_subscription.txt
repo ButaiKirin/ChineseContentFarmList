@@ -14,3 +14,5 @@
 *://z.sogou.com/*
 *://inewsuk.com/*
 *://swiss-week.ch/*
+*://60.214.107.168/*
+*://free.uulucky.com/*
