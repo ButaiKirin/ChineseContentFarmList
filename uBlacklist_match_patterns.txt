@@ -1,3 +1,5 @@
+! Title: Chinese Content Farm List (Match Patterns)
+! Homepage: https://github.com/ButaiKirin/ChineseContentFarmList
 *://*/so.php
 *://*/so.php?s=*
 *://*/cha.php?s=*
