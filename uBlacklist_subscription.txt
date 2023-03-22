@@ -21,3 +21,8 @@
 *://www.gettyimages.pt/*
 *://reallygoodemails.com/*
 *://henka.de/*
+*://searchcode.com/*
+*://bpemb.h-its.org/*
+*://corpus.leeds.ac.uk/*
+*://pkg.cs.ovgu.de/*
+*://openi.pcl.ac.cn/*
